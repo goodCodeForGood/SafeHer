@@ -9,6 +9,8 @@ Girl safety: anytime, anywhere
 
 Languages, frameworks, platforms, cloud services, databases, APIs, or other technologies I used:
 
+HTML, CSS, JavaScript, React, Gemini AI
+
 ## Image
 
 ## Inspiration
