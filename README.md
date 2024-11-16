@@ -5,12 +5,6 @@
 Provide a short tagline for the project
 Girl safety: anytime, anywhere
 
-## Built with
-
-Languages, frameworks, platforms, cloud services, databases, APIs, or other technologies I used:
-
-HTML, CSS, JavaScript, React, Gemini AI
-
 ## Image
 
 ## Inspiration
@@ -18,6 +12,9 @@ HTML, CSS, JavaScript, React, Gemini AI
 ## What it does
 
 ## How we built it
+Languages, frameworks, platforms, cloud services, databases, APIs, or other technologies I used:
+
+HTML, CSS, JavaScript, React, Gemini AI
 
 ## Challenges we ran into
 
